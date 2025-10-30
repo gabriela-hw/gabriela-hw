@@ -3,7 +3,7 @@
 **`Desenvolvedora FullStack`**
 
 <p align="justify">
-Olá, meu nome é  Gabriela, sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB). Tenho grande interesse pela área de desenvolvimento de software, especialmente em Java e programação web com HTML, CSS e JavaScript. Gosto de criar projetos que unem lógica, criatividade e boas práticas de programação. Estou construindo meu portfólio no GitHub, onde compartilho meus estudos e evoluções na área de tecnologia.
+Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB). Tenho grande interesse pela área de desenvolvimento de software, especialmente em Java e programação web com HTML, CSS e JavaScript. Gosto de criar projetos que unem lógica, criatividade e boas práticas de programação. Estou construindo meu portfólio no GitHub, onde compartilho meus estudos e evoluções na área de tecnologia.
 </p>
 
   
