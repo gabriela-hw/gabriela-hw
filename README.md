@@ -27,3 +27,12 @@ Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielagalv%C3%A3o-/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriela.galvao268@gmail.com)
 
+### 🛣 Minha jornada na tecnologia
+
+- 2023: início na Ciência da Computação  
+- 2024: primeiros projetos em Java  
+- 2024/2025: aprofundando desenvolvimento web  
+- Hoje: construindo meu caminho como FullStack
+
+<br><img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnEyb2E0cGw4NTNlZnRzY3l1bWY1OWxzM3JqcTIxaTM3bWQwZ21jNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/><br>
+
