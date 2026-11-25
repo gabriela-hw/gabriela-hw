@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/gabrielagalvaoo">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:gabriela.galvao268@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabriela.galvao268@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/gabriela-hw">
@@ -131,7 +131,7 @@ Animal management system developed with MongoDB and CRUD operations.
   <a href="https://www.linkedin.com/in/gabrielagalvaoo">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:gabriela.galvao268@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabriela.galvao268@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
