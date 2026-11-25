@@ -1,38 +1,143 @@
-# 👩‍💻 Gabriela Galvão
+# Gabriela Galvão
 
-**`Desenvolvedora FullStack`**
-
-<p align="justify">
-Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB). Tenho grande interesse pela área de desenvolvimento de software, especialmente em Java e programação web com HTML, CSS e JavaScript. Gosto de criar projetos que unem lógica, criatividade e boas práticas de programação. Estou construindo meu portfólio no GitHub, onde compartilho meus estudos e evoluções na área de tecnologia.
+<p align="center">
+  <strong>Software Developer | Software Tester</strong>
+  <br/>
+  Computer Science Student at UEPB
+  <br/><br/>
+  Developing software solutions, testing systems and exploring technologies to build better digital experiences.
 </p>
 
-  
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielagalvaoo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gabriela.galvao268@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gabriela-hw">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-### 💻 Linguagens e Tecnologias
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## 👩‍💻 About Me
 
+- 🎓 Computer Science undergraduate at UEPB.
+- 💻 Interested in software development and digital solutions.
+- 🧪 Working with software testing and quality assurance.
+- 🔌 Learning API testing and system validation.
+- ⚙️ Experience with backend development and databases.
+- 📚 Always exploring new technologies and improving my skills.
 
-### 💌 Onde me encontrar
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielagalv%C3%A3o-/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriela.galvao268@gmail.com)
+## 🛠️ Tech Stack
 
-### 🛣 Minha jornada na tecnologia
+**Programming Languages & Web Development**
 
-- 2023: início na Ciência da Computação  
-- 2024: primeiros projetos em Java  
-- 2024/2025: aprofundando desenvolvimento web  
-- Hoje: construindo meu caminho como FullStack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css,react,nodejs,express&theme=dark"/>
+</p>
 
-<br><img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnEyb2E0cGw4NTNlZnRzY3l1bWY1OWxzM3JqcTIxaTM3bWQwZ21jNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/><br>
+**Databases & Development Tools**
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,postman,vscode&theme=dark"/>
+  <img src="https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge&logo=bruno&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+---
+
+## 💡 Areas of Expertise
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💻 Software Development</h3>
+      Backend Development<br/>
+      Programming<br/>
+      Web Development
+    </td>
+    <td width="50%">
+      <h3>🧪 Software Testing</h3>
+      API Testing<br/>
+      System Validation<br/>
+      Quality Assurance
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗄️ Databases</h3>
+      PostgreSQL<br/>
+      MySQL<br/>
+      MongoDB
+    </td>
+    <td width="50%">
+      <h3>🔧 Tools & Workflow</h3>
+      Git & GitHub<br/>
+      Jira<br/>
+      Postman<br/>
+      Bruno
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Currently Learning
+
+- TypeScript
+- Software Quality Assurance
+- API Testing
+- Backend Development
+- Software Engineering
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriela-hw&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabriela-hw&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🩸 HemoConnect
+
+Blood bank management system developed with React, Node.js, Express and MySQL.
+
+### 🌆 NEO
+
+Professional opportunities platform connecting candidates and companies through profiles, skills and job opportunities.
+
+### 🐾 PetLar
+
+Animal management system developed with MongoDB and CRUD operations.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielagalvaoo">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gabriela.galvao268@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Learning, building and evolving one commit at a time."</i> ✨
+</p>
